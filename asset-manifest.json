@@ -1,11 +1,11 @@
 {
   "files": {
-    "main.css": "/static/css/main.c2659061.css",
-    "main.js": "/static/js/main.c265d0d4.js",
+    "main.css": "/static/css/main.9f1d40c0.css",
+    "main.js": "/static/js/main.73dd257a.js",
     "static/media/texture_ball.jpg": "/static/media/texture_ball.9856dc49ff7a841a35b4.jpg",
+    "static/media/cartelera.jpg": "/static/media/cartelera.1b1a909a5e83c2b296f4.jpg",
     "static/media/ugr-logo.png": "/static/media/ugr-logo.87dac8ceceda2f8b0ab4.png",
     "static/media/MorangaBold.otf": "/static/media/MorangaBold.4a27d46d16773272da5e.otf",
-    "static/media/alten-logo.png": "/static/media/alten-logo.870ff49f23ad6cf4d814.png",
     "static/media/ntt-logo.png": "/static/media/ntt-logo.cda2814c521cebb624df.png",
     "static/media/jyv-logo.png": "/static/media/jyv-logo.59921f28424ff3a2a1c5.png",
     "static/media/amadeus-logo.png": "/static/media/amadeus-logo.990e1ffad192245a7a80.png",
@@ -16,7 +16,7 @@
     "index.html": "/index.html"
   },
   "entrypoints": [
-    "static/css/main.c2659061.css",
-    "static/js/main.c265d0d4.js"
+    "static/css/main.9f1d40c0.css",
+    "static/js/main.73dd257a.js"
   ]
 }
